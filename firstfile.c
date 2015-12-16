@@ -12,5 +12,6 @@ motor[port3]=-127;
 
 wait1Msec(5000);
 
-
+motor[port2]=128;
+motor[port3]=-127;
 }
